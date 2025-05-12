@@ -504,11 +504,18 @@ ninja.data = [{
           window.open("mailto:%78%69%66%61%6E.%74%61%6E%67@%69%65%65%65.%6F%72%67", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://github.com/tangxifan", "_blank");
+        },
+      },{
+        id: 'social-ieee',
+        title: 'IEEE Xplore',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://ieeexplore.ieee.org/author/92918394/", "_blank");
         },
       },{
         id: 'social-linkedin',
