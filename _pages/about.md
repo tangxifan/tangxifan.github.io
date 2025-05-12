@@ -9,8 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>1999 South Bascom Ave.</p>
-    <p>Campbell, CA-95008</p>
+    <center>
+    <a href="https://scholar.google.com/citations?user=8xx9aw0AAAAJ&hl=en">Google Scholar</a> | <a href="https://tangxifan.github.io/cv/">CV</a> | <a href="https://www.linkedin.com/in/xifantang/">LinkedIn</a> | <a href="https://github.com/tangxifan">GitHub</a>
+    <center>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -21,7 +22,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
