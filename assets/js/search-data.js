@@ -396,7 +396,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-openfpga",
           title: 'OpenFPGA',
-          description: "with background image",
+          description: "An open-source customizable FPGA IP Generator",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_openfpga.html";
             },},{
