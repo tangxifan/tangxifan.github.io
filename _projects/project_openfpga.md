@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OpenFPGA
-description: with background image
+description: An open-source customizable FPGA IP Generator
 img: assets/img/openfpga_motivation.png
 importance: 1
 category: work
